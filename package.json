@@ -1,0 +1,24 @@
+{
+  "name": "algoritmos-js",
+  "version": "1.0.0",
+  "description": "Complejidad algoritmica con JavaScript (Platzi).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V11Playko/algoritmos-js.git"
+  },
+  "keywords": [
+    "Javascript",
+    "platzi",
+    "algorithms"
+  ],
+  "author": "Heinner Vega <heinnervega20@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/V11Playko/algoritmos-js/issues"
+  },
+  "homepage": "https://github.com/V11Playko/algoritmos-js#readme"
+}
