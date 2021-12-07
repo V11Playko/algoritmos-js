@@ -9,11 +9,13 @@ function repetir(arreglo) {
     return arreglo_repetido;
   }
   
-  function convertirAString(arreglo) {
+function convertirAString(arreglo) {
     let resultado = arreglo.map((elemento) => elemento.toString());
     return resultado;
   }
-  console.log(convertirAString([1,2]));
+
+ // console.log(convertirAString([1,2]));
+  
   function dosDimensiones(valor) {
     let x = new Array(valor);
     for (let i = 0; i < valor; i++) {
@@ -22,4 +24,4 @@ function repetir(arreglo) {
     return x;
   }
   
-//  console.log(dosDimensiones(5));
+ console.log(dosDimensiones(5));
