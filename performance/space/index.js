@@ -7,7 +7,7 @@ function contar (n) {
 function repetir(arreglo) {
     let arreglo_repetido = arreglo;
     return arreglo_repetido;
-  }
+  } 
   
 function convertirAString(arreglo) {
     let resultado = arreglo.map((elemento) => elemento.toString());
